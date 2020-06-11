@@ -1,3 +1,8 @@
+## Dongerundon
+
+Single page application created from wixsite.com template.
+Maquette creator: https://t.me/MochiMachi
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
